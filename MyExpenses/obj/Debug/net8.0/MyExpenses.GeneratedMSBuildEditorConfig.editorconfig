@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\MVC TRAINING\MyExpenses
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/MVC TRAINING/MyExpenses/Views/Home/CreateEditExpenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFZGl0RXhwZW5zZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MVC TRAINING/MyExpenses/Views/Home/Expenses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeHBlbnNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

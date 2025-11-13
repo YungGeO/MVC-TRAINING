@@ -29,3 +29,14 @@ D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.pdb
 D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.genruntimeconfig.cache
 D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\ref\MyExpenses.dll
 D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.sourcelink.json
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MVC TRAINING\MyExpenses\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.csproj.AssemblyReference.cache
+D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.csproj.Up2Date
