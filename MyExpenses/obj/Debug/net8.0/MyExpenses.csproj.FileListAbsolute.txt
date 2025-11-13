@@ -28,3 +28,4 @@ D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\refint\MyExpenses.dll
 D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.pdb
 D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.genruntimeconfig.cache
 D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\ref\MyExpenses.dll
+D:\MVC TRAINING\MyExpenses\obj\Debug\net8.0\MyExpenses.sourcelink.json
